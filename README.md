@@ -14,3 +14,13 @@
     src="dist/github-snake.svg"
   />
 </picture>
+
+---
+
+## Hardware
+
+- [hardware.md](hardware.md)
+
+## Software
+
+- [software.md](software.md)
