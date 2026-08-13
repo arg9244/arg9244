@@ -16,6 +16,6 @@
 <div align="center">
 
 [![Specs](https://img.shields.io/badge/🖥️_System_Specs-ff6b35?style=for-the-badge&logo=amd&logoColor=white)](specs.md)
-[![Dotfiles](https://img.shields.io/badge/⚙️_Dotfiles-0078d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arg9244/dotfiles/blob/main/dotfiles.md)
+[![Dotfiles](https://img.shields.io/badge/⚙️_Dotfiles-0078d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arg9244/dotfiles)
 
 </div>
