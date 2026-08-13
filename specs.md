@@ -3,12 +3,12 @@
 | | |
 |---|---|
 | 🐧 **OS** | CachyOS · `7.1.8-1-cachyos` · niri / Wayland |
-| ⚡ **CPU** | AMD Ryzen 5 3600 · 6C/12T · Zen 2 · amd-pstate-epp |
+| ⚡ **CPU** | AMD Ryzen 5 3600 · 6C/12T · Zen 2 |
 | 🧠 **RAM** | 32 GiB DDR4-2666 dual · 32 GiB zram (zstd) |
 | 🎮 **GPU** | AMD RX 6800 · 16 GB GDDR6 · RADV · Mesa 26.1.6 |
-| 🖥️ **Display** | 2560×1440 · 165 Hz · Samsung LS32CG51x (VA) |
-| 💾 **Storage** | NVMe 980 · Kingston SA400 SATA · WD Caviar |
-| 🔧 **Proton** | Proton-CachyOS 11.0.20260703 |
+| 🖥️ **Display** | 2560×1440 · 165 Hz (DP-2) · 1920×1080 · 75 Hz (HDMI-A-1) |
+| 💾 **Storage** | NVMe 980 · Kingston SA400 SATA |
+| 🔧 **Proton** | Proton-CachyOS 11 |
 
 ---
 
@@ -134,17 +134,14 @@
 |---|---|---|---|
 | `nvme0n1` | 931.5 GiB | Samsung SSD 980 NVMe | — |
 | `sda` | 223.6 GiB | Kingston SA400 SATA | Root `/` on `sda2`, `/boot` on `sda1` |
-| `zram0` | 31.3 GiB | zstd compressed swap | Active |
 
 ---
 
 ### Display
 
-| Field | Value |
-|---|---|
-| Monitor | Samsung LS32CG51x (VA) |
-| Resolution | 2560×1440 |
-| Refresh | 165 Hz (current, preferred); VRR supported but disabled |
-| Connector | DP-2 (EDID: serial H9JWA00258) |
+| Connector | Monitor | Resolution | Refresh | Notes |
+|---|---|---|---|---|
+| DP-2 | Samsung LS32CG51x (VA) | 2560×1440 | 165 Hz | Primary |
+| HDMI-A-1 | ViewSonic VA2465 (IPS) | 1920×1080 | 75 Hz | Secondary |
 
 </details>
