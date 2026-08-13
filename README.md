@@ -17,10 +17,4 @@
 
 ---
 
-## Hardware
-
-- [hardware.md](hardware.md)
-
-## Software
-
-- [software.md](software.md)
+- [specs.md](specs.md) — hardware + gaming stack + kernel tuning
