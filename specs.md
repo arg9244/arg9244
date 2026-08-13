@@ -7,7 +7,7 @@
 | 🧠 **RAM** | 32 GiB DDR4-2666 dual · 32 GiB zram (zstd) |
 | 🎮 **GPU** | AMD RX 6800 · 16 GB GDDR6 · RADV · Mesa 26.1.6 |
 | 🖥️ **Display** | 2560×1440 · 165 Hz (DP-2) · 1920×1080 · 75 Hz (HDMI-A-1) |
-| 💾 **Storage** | NVMe 980 (931 GiB) · Kingston SA400 (224 GiB) |
+| 💾 **Storage** | NVMe 980 (1 TB) · Kingston SA400 (240 GB) |
 
 ---
 
