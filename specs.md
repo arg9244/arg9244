@@ -8,7 +8,6 @@
 | 🎮 **GPU** | AMD RX 6800 · 16 GB GDDR6 · RADV · Mesa 26.1.6 |
 | 🖥️ **Display** | 2560×1440 · 165 Hz (DP-2) · 1920×1080 · 75 Hz (HDMI-A-1) |
 | 💾 **Storage** | NVMe 980 · Kingston SA400 SATA |
-| 🔧 **Proton** | Proton-CachyOS 11 |
 
 ---
 
