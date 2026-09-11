@@ -12,10 +12,13 @@ bio:
 
 fetch_fields:
   os: "CachyOS"
-  wm: "Niri"
+  wm: "Niri + Noctalia"
   shell: "fish"
   terminal: "Kitty"
   editor: "Zed"
+  cpu: "AMD Ryzen 5 3600"
+  gpu: "AMD Radeon RX 6800"
+  ram: "32GB DDR4"
 
 display:
   show_bio:      true
