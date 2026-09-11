@@ -1,0 +1,28 @@
+# Terminal Widget Configuration
+
+username: arg9244
+theme: gruvbox
+
+bio:
+  name: "arg9244"
+  tagline: "Linux Enthusiast & DevOps Engineer"
+  website: "https://github.com/arg9244"
+  links:
+    - { title: "Email", url: "arg9244@gmail.com" }
+
+fetch_fields:
+  os: "CachyOS"
+  wm: "Niri"
+  shell: "fish"
+  terminal: "Kitty"
+  editor: "Zed"
+
+display:
+  show_bio:      true
+  show_fetch:    true
+  show_stats:    true
+  show_projects: true
+  show_palette:  true
+  ascii_logo:    cat
+  embed_snake:   true
+  max_projects:  5
