@@ -87,29 +87,29 @@
 
   <rect class="surface" x="20" y="356" width="700" height="132" rx="6"/>
   <text class="small" x="32" y="370">┌─ ~/projects ─</text>
-  <circle cx="38" cy="384" r="5" fill="#3572A5"/>
-  <text class="accent" x="50" y="388">arg9244</text>
+  <circle cx="38" cy="384" r="5" fill="#3178c6"/>
+  <text class="accent" x="50" y="388">tweakfox</text>
   <text class="yellow" x="520" y="388">★ 0</text>
-  <text class="muted"  x="570" y="388">Python</text>
-  <circle cx="38" cy="406" r="5" fill="#3178c6"/>
-  <text class="accent" x="50" y="410">browser-benchmark</text>
+  <text class="muted"  x="570" y="388">TypeScript</text>
+  <circle cx="38" cy="406" r="5" fill="#3572A5"/>
+  <text class="accent" x="50" y="410">arg9244</text>
   <text class="yellow" x="520" y="410">★ 0</text>
-  <text class="muted"  x="570" y="410">TypeScript</text>
-  <circle cx="38" cy="428" r="5" fill="#dea584"/>
-  <text class="accent" x="50" y="432">ggum</text>
+  <text class="muted"  x="570" y="410">Python</text>
+  <circle cx="38" cy="428" r="5" fill="#3178c6"/>
+  <text class="accent" x="50" y="432">browser-benchmark</text>
   <text class="yellow" x="520" y="432">★ 0</text>
-  <text class="muted"  x="570" y="432">Rust</text>
-  <circle cx="38" cy="450" r="5" fill="#3572A5"/>
-  <text class="accent" x="50" y="454">V2R-Subs</text>
+  <text class="muted"  x="570" y="432">TypeScript</text>
+  <circle cx="38" cy="450" r="5" fill="#dea584"/>
+  <text class="accent" x="50" y="454">ggum</text>
   <text class="yellow" x="520" y="454">★ 0</text>
-  <text class="muted"  x="570" y="454">Python</text>
-  <circle cx="38" cy="472" r="5" fill="#e34c26"/>
-  <text class="accent" x="50" y="476">weather_graph</text>
+  <text class="muted"  x="570" y="454">Rust</text>
+  <circle cx="38" cy="472" r="5" fill="#3572A5"/>
+  <text class="accent" x="50" y="476">V2R-Subs</text>
   <text class="yellow" x="520" y="476">★ 0</text>
-  <text class="muted"  x="570" y="476">HTML</text>
+  <text class="muted"  x="570" y="476">Python</text>
 
   <text class="text" x="20" y="514">
-    <tspan class="muted" xml:space="preserve">  repos </tspan><tspan class="accent">9</tspan>
+    <tspan class="muted" xml:space="preserve">  repos </tspan><tspan class="accent">10</tspan>
     <tspan class="muted" xml:space="preserve">    stars </tspan><tspan class="yellow">0</tspan>
     <tspan class="muted" xml:space="preserve">    followers </tspan><tspan class="green">0</tspan>
     <tspan class="muted" xml:space="preserve">    following </tspan><tspan class="purple" fill="#d3869b">0</tspan>
